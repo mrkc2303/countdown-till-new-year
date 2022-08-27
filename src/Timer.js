@@ -7,7 +7,7 @@ const Timer =() => {
     const [countdownTime, setCountdownTime] = useState({
         countdownDays: "",
         countdownHours: "",
-        countdownlMinutes: "",
+        countdownMinutes: "",
         countdownSeconds: "",
     });
 
